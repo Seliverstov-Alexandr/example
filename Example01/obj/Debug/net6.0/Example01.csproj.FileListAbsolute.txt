@@ -1,0 +1,15 @@
+D:\Users\pross\Desktop\C#\Example01\bin\Debug\net6.0\Example01.exe
+D:\Users\pross\Desktop\C#\Example01\bin\Debug\net6.0\Example01.deps.json
+D:\Users\pross\Desktop\C#\Example01\bin\Debug\net6.0\Example01.runtimeconfig.json
+D:\Users\pross\Desktop\C#\Example01\bin\Debug\net6.0\Example01.dll
+D:\Users\pross\Desktop\C#\Example01\bin\Debug\net6.0\Example01.pdb
+D:\Users\pross\Desktop\C#\Example01\obj\Debug\net6.0\Example01.csproj.AssemblyReference.cache
+D:\Users\pross\Desktop\C#\Example01\obj\Debug\net6.0\Example01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\pross\Desktop\C#\Example01\obj\Debug\net6.0\Example01.AssemblyInfoInputs.cache
+D:\Users\pross\Desktop\C#\Example01\obj\Debug\net6.0\Example01.AssemblyInfo.cs
+D:\Users\pross\Desktop\C#\Example01\obj\Debug\net6.0\Example01.csproj.CoreCompileInputs.cache
+D:\Users\pross\Desktop\C#\Example01\obj\Debug\net6.0\Example01.dll
+D:\Users\pross\Desktop\C#\Example01\obj\Debug\net6.0\refint\Example01.dll
+D:\Users\pross\Desktop\C#\Example01\obj\Debug\net6.0\Example01.pdb
+D:\Users\pross\Desktop\C#\Example01\obj\Debug\net6.0\Example01.genruntimeconfig.cache
+D:\Users\pross\Desktop\C#\Example01\obj\Debug\net6.0\ref\Example01.dll
